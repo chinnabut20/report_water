@@ -1,0 +1,367 @@
+{
+    "api_name": "Drought_Index_Forecast_ChiangMai_10Basins",
+    "unit": "index",
+    "forecast_issued_date": "2026-02-27T15:00:00+07:00",
+    "data": [
+        {
+            "sub_basin_id": "SB-PING-UPPER",
+            "sub_basin_name": "ลุ่มน้ำปิงตอนบน",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.20,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -1.85,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -2.10,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.10,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.50,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.20,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-TAENG",
+            "sub_basin_name": "ลุ่มน้ำแม่แตง",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.05,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -1.60,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -2.50,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.30,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": 0.10,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.85,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-KUANG",
+            "sub_basin_name": "ลุ่มน้ำแม่กวง",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.40,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -2.20,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.75,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.05,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.20,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.50,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-CHAEM",
+            "sub_basin_name": "ลุ่มน้ำแม่แจ่ม",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.65,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -2.80,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.90,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.25,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.80,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.15,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-NGAT",
+            "sub_basin_name": "ลุ่มน้ำแม่งัด",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.10,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -1.55,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.45,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -0.90,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.10,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.60,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-RIM",
+            "sub_basin_name": "ลุ่มน้ำแม่ริม",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.25,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -1.70,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.50,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -0.95,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-07",
+                    "value": 0.05,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.75,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-KHAN",
+            "sub_basin_name": "ลุ่มน้ำแม่ขาน",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.50,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -2.40,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.80,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.15,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.40,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.30,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-TUEN",
+            "sub_basin_name": "ลุ่มน้ำแม่ตื่น",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.80,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -2.60,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -2.05,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.35,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.60,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.10,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-FANG",
+            "sub_basin_name": "ลุ่มน้ำแม่ฝาง",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.35,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -1.90,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.65,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.00,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.30,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.45,
+                    "status": "ปกติ"
+                }
+            ]
+        },
+        {
+            "sub_basin_id": "SB-MAE-WANG",
+            "sub_basin_name": "ลุ่มน้ำแม่วาง",
+            "forecast_6_months": [
+                {
+                    "month": "2026-03",
+                    "value": -1.45,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-04",
+                    "value": -2.15,
+                    "status": "แล้งรุนแรงมาก"
+                },
+                {
+                    "month": "2026-05",
+                    "value": -1.70,
+                    "status": "แล้งรุนแรง"
+                },
+                {
+                    "month": "2026-06",
+                    "value": -1.20,
+                    "status": "แล้งปานกลาง"
+                },
+                {
+                    "month": "2026-07",
+                    "value": -0.55,
+                    "status": "ปกติ"
+                },
+                {
+                    "month": "2026-08",
+                    "value": 0.25,
+                    "status": "ปกติ"
+                }
+            ]
+        }
+    ]
+}

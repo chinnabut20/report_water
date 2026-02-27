@@ -103,3 +103,34 @@ export const fetchWaterData = async (): Promise<WaterData[]> => {
         return [];
     }
 };
+
+// Mock Data
+export const fetchRainfallMockData = async () => {
+    try {
+        const response = await fetch("/rainfall_mockdata.json");
+        return await response.json();
+    } catch (error) {
+        console.error("Error fetching rainfall mock data:", error);
+        return null;
+    }
+};
+
+export const fetchSoilMoistureMockData = async () => {
+    try {
+        const response = await fetch("/soil_moisture_mock.json");
+        return await response.json();
+    } catch (error) {
+        console.error("Error fetching soil moisture mock data:", error);
+        return null;
+    }
+};
+
+export const fetchSPEIMockData = async () => {
+    try {
+        const response = await fetch("/SPEI_mock.json");
+        return await response.json();
+    } catch (error) {
+        console.error("Error fetching SPEI mock data:", error);
+        return null;
+    }
+};

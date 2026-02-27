@@ -1,0 +1,377 @@
+{
+  "api_name": "GPM_Rainfall_ChiangMai_SubBasins",
+  "description": "ข้อมูลปริมาณน้ำฝนจากดาวเทียม GPM รายลุ่มน้ำสาขาย่อยในเชียงใหม่ ย้อนหลัง 7 วัน",
+  "unit": "mm",
+  "last_updated": "2026-02-27T12:00:00+07:00",
+  "data": [
+    {
+      "sub_basin_id": "SB-MAE-TAENG",
+      "sub_basin_name": "ลุ่มน้ำแม่แตง",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 5.4,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 18.2,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 45.5,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 105.0,
+          "status": "ฝนตกรุนแรง"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 22.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 8.1,
+          "status": "ฝนตกเล็กน้อย"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-KUANG",
+      "sub_basin_name": "ลุ่มน้ำแม่กวง",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 2.5,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 12.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 8.0,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 36.5,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 15.3,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 5.0,
+          "status": "ฝนตกเล็กน้อย"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-CHAEM",
+      "sub_basin_name": "ลุ่มน้ำแม่แจ่ม",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 9.5,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 28.4,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 42.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 95.2,
+          "status": "ฝนตกรุนแรง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 30.1,
+          "status": "ฝนตกปานกลาง"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-NGAT",
+      "sub_basin_name": "ลุ่มน้ำแม่งัด",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 2.5,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 15.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 40.5,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 95.0,
+          "status": "ฝนตกรุนแรง"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 20.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 5.0,
+          "status": "ฝนตกเล็กน้อย"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-RIM",
+      "sub_basin_name": "ลุ่มน้ำแม่ริม",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 1.0,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 12.5,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 36.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 92.0,
+          "status": "ฝนตกรุนแรง"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 50.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 10.5,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-KHAN",
+      "sub_basin_name": "ลุ่มน้ำแม่ขาน",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 5.5,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 25.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 60.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 15.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 2.0,
+          "status": "ฝนตกเล็กน้อย"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-TUEN",
+      "sub_basin_name": "ลุ่มน้ำแม่ตื่น",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 5.0,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 18.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 45.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 100.0,
+          "status": "ฝนตกรุนแรง"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 30.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 8.0,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-FANG",
+      "sub_basin_name": "ลุ่มน้ำแม่ฝาง",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 0.0,
+          "status": "ไม่มีฝน"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 8.5,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 22.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 55.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 85.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 32.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 10.0,
+          "status": "ฝนตกเล็กน้อย"
+        }
+      ]
+    },
+    {
+      "sub_basin_id": "SB-MAE-WANG",
+      "sub_basin_name": "ลุ่มน้ำแม่วาง",
+      "daily_records": [
+        {
+          "date": "2026-02-21",
+          "rainfall_mm": 2.0,
+          "status": "ฝนตกเล็กน้อย"
+        },
+        {
+          "date": "2026-02-22",
+          "rainfall_mm": 10.5,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-23",
+          "rainfall_mm": 38.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-24",
+          "rainfall_mm": 70.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-25",
+          "rainfall_mm": 40.0,
+          "status": "ฝนตกหนัก"
+        },
+        {
+          "date": "2026-02-26",
+          "rainfall_mm": 12.0,
+          "status": "ฝนตกปานกลาง"
+        },
+        {
+          "date": "2026-02-27",
+          "rainfall_mm": 1.5,
+          "status": "ฝนตกเล็กน้อย"
+        }
+      ]
+    }
+  ]
+}

@@ -38,6 +38,12 @@ export const ExportButton = ({ targetRef, fileNamePrefix = "report" }: ExportBut
                 width: captureWidth,
                 height: captureHeight,
                 backgroundColor: '#ffffff',
+                filter: (node) => {
+                    const exclusionClasses = ['no-export'];
+                    return !exclusionClasses.some(className =>
+                        node.classList?.contains(className)
+                    );
+                },
                 style: {
                     // Critical: Enforce fixed dimensions during capture to match desktop layout
                     width: `${captureWidth}px`,
@@ -48,6 +54,7 @@ export const ExportButton = ({ targetRef, fileNamePrefix = "report" }: ExportBut
                     transform: "none", // Reset any potential transforms
                 },
             });
+
 
             if (format === "png" || format === "jpg") {
                 const link = document.createElement("a");
